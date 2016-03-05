@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Org. de Ayuda En Colima</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps_caminemos">Ubicación</string>
+    <string name="title_activity_caminemosjuntos">Caminemos Juntos</string>
+    <string name="title_activity_antesdepartir">Antes de Partir</string>
+    <string name="title_activity_maps_antes_partir">Ubicación</string>
+    <string name="title_activity_ceili">Fundación Ceili</string>
+    <string name="title_activity_ninez">Protección de la Niñez</string>
+    <string name="title_activity_maps_ceili">Ubicación</string>
+    <string name="title_activity_maps_ninez">Ubicación</string>
+</resources>
